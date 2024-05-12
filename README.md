@@ -56,6 +56,8 @@ if(!isApp) {
 
 
 
+copy both txt and upper one mix together and run
+
 You can track the progress by looking at the Quest progress: prints in the Console tab, or by reopening the Gift Inventory tab in settings. The progress should update every 30s.
 
 
